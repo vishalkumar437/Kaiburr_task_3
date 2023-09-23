@@ -58,20 +58,19 @@ Run and Link both the containers
     kubectl create -f "mongodeployment.yml"
     kubectl create -f "springdeployment.yml"
 ```
-![Screenshot 2023-09-23 233135.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202023-09-23%20233135.png)
+![Screenshot 2023-09-23 233135.png](..%2FScreenshots%2FScreenshot%202023-09-23%20233135.png)
 ### Used NodePort to expose port to 30100 for Spring application
 
 ## ScreenShots
 
 ### Services for mongo and API
 
-![Screenshot 2023-09-24 003029.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202023-09-24%20003029.png)
-
+![Screenshot 2023-09-24 003029.png](..%2FScreenShots%2FScreenshot%202023-09-24%20003029.png)
 ### Persistent Volume Claim 
 
-![Screenshot 2023-09-24 003145.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202023-09-24%20003145.png)
+![Screenshot 2023-09-24 003145.png](..%2FScreenShots%2FScreenshot%202023-09-24%20003145.png)
 
 ### API on pod details
 
-![Screenshot 2023-09-24 002211.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202023-09-24%20002211.png)
+![Screenshot 2023-09-24 002211.png](..%2FScreenShots%2FScreenshot%202023-09-24%20002211.png)
 
