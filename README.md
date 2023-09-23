@@ -58,7 +58,7 @@ Run and Link both the containers
     kubectl create -f "mongodeployment.yml"
     kubectl create -f "springdeployment.yml"
 ```
-![Screenshot 2023-09-23 233135.png](..%2FScreenshots%2FScreenshot%202023-09-23%20233135.png)
+![Screenshot 2023-09-23 233135.png](ScreenShots/Screenshot%2023-09-23%233135.png)
 ### Used NodePort to expose port to 30100 for Spring application
 
 ## ScreenShots
