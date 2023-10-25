@@ -27,6 +27,7 @@ spec:
           persistentVolumeClaim:
               claimName: mongo-pvc
 ---
+#Sevice
 apiVersion: v1
 kind: Service
 metadata:
@@ -40,6 +41,7 @@ spec:
       targetPort: 27017
   type: ClusterIP
 ---
+#PVC Claim 
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
