@@ -33,7 +33,7 @@ metadata:
   name: spring-svc
 spec:
   selector:
-    app: springboot-k8s-mysql
+    app: spring
   ports:
     - protocol: "TCP"
       port: 8080 # The port that the service is running on in the cluster
